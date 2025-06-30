@@ -59,7 +59,7 @@ Read comments in each R notebook for more info.
 
 Before use, change the path to where the data is located.
 
-Please make sure to thoroughly read the comments in the code to understand the functionality of each part. If you encounter any problems, please contact author [Junda Zhu](mailto:junda.zhu@vanderbilt.edu).
+Please make sure to thoroughly read the comments in the code to understand the functionality of each part. If you encounter any problems, please contact author Junda Zhu.
 
 **This repository is actively maintained and the published version will be on [Zenodo](https://doi.org/10.5281/zenodo.14832030).**
 
